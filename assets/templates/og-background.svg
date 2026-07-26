@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img">
+  <title>Kyle Wu Open Graph background</title>
+  <defs>
+    <radialGradient id="glow" cx="88%" cy="62%" r="34%">
+      <stop offset="0" stop-color="#c4a56c" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#c4a56c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0d0d0d"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="#c4a56c" stroke-opacity=".12">
+    <path d="M-70 292c72-62 152-60 216 5 46 47 81 61 128 49 45-12 78-48 135-48"/>
+    <path d="M-76 316c78-65 162-63 229 5 44 44 76 57 119 46 49-12 83-45 143-45"/>
+    <path d="M-82 340c84-68 173-66 242 5 41 41 70 53 110 43 53-13 88-43 151-43"/>
+    <path d="M-88 364c90-72 183-69 255 6 38 38 65 49 101 40 57-14 94-41 159-41"/>
+    <path d="M756-42c-22 75 2 128 72 159 61 27 80 75 50 133-30 59-18 110 38 155 67 54 78 128 28 222"/>
+    <path d="M784-46c-23 72-1 122 65 152 68 31 89 84 56 148-27 53-16 99 34 140 72 58 84 137 32 235"/>
+    <path d="M812-50c-24 69-4 116 58 145 75 35 98 93 62 163-24 47-14 88 30 125 77 63 90 146 36 248"/>
+    <path d="M840-54c-25 66-7 110 51 138 82 39 107 102 68 178-21 41-12 77 26 110 82 67 96 155 40 261"/>
+  </g>
+  <g fill="#f0eadd" opacity=".72">
+    <rect x="24" y="28" width="10" height="10"/>
+    <rect x="84" y="58" width="10" height="10"/>
+    <rect x="164" y="56" width="10" height="10"/>
+    <rect x="284" y="22" width="10" height="10"/>
+    <rect x="326" y="54" width="10" height="10"/>
+    <rect x="504" y="52" width="10" height="10"/>
+    <rect x="662" y="74" width="10" height="10"/>
+    <rect x="38" y="198" width="10" height="10"/>
+    <rect x="124" y="236" width="10" height="10"/>
+    <rect x="286" y="122" width="10" height="10"/>
+    <rect x="412" y="116" width="10" height="10"/>
+    <rect x="450" y="90" width="10" height="10"/>
+    <rect x="570" y="116" width="10" height="10"/>
+    <rect x="624" y="102" width="10" height="10"/>
+    <rect x="150" y="390" width="10" height="10"/>
+    <rect x="338" y="512" width="10" height="10"/>
+    <rect x="372" y="538" width="10" height="10"/>
+    <rect x="378" y="506" width="10" height="10"/>
+  </g>
+</svg>
